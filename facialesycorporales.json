@@ -1,0 +1,133 @@
+[
+  {
+    "IdServicio": "001",
+    "Nombre": "DERMAPEN CON ENSIMAS",
+    "DescripcionCorta": "Tratamiento de microagujas con enzimas",
+    "DescripcionLarga": "El Dermapen con enzimas es un tratamiento estético que utiliza microagujas para aplicar en la piel enzimas que ayudan a rejuvenecer y mejorar la apariencia de la piel. Este tratamiento puede ser utilizado para tratar arrugas, líneas finas, cicatrices y marcas de acné.",
+    "Imagen1": "img/dermapen-micropuncion.jpg",
+    "Imagen2": "",
+    "Precio": "1",
+    "Recomendacion":"Obtén una piel suave y rejuvenecida con Dermapen y enzimas. El tratamiento de microagujas mejora la textura de la piel y los beneficios de las enzimas ayudan a exfoliar y revitalizar tu piel. ¡Pruébalo y luce una piel más joven!"
+  },
+  {
+    "IdServicio": "002",
+    "Nombre": "DERMAPEN CON FACTORES DE CRECIMIENTO DE PLACENTA",
+    "DescripcionCorta": "Tratamiento de microagujas con factores de crecimiento de placenta",
+    "DescripcionLarga": "El Dermapen con factores de crecimiento de placenta es un tratamiento estético que utiliza microagujas para aplicar en la piel factores de crecimiento derivados de la placenta, que ayudan a rejuvenecer y mejorar la apariencia de la piel. Este tratamiento puede ser utilizado para tratar arrugas, líneas finas, cicatrices y marcas de acné.",
+    "Imagen1": "img/bioplacenta.jpg",
+    "Imagen2": "",
+    "Precio": "1",
+    "Recomendacion":"Si buscas una piel radiante y sin imperfecciones, Dermapen con factores de crecimiento de placenta es el tratamiento perfecto para ti. Los factores de crecimiento ayudan a regenerar y revitalizar tu piel. ¡Resplandece con una piel más saludable y joven!"
+  },
+  {
+    "IdServicio": "003",
+    "Nombre": "APLICACIÓN DE ACIDO HIALURÓNICO COMO RELLENO O COMO HIDRATACIÓN",
+    "DescripcionCorta": "Tratamiento de ácido hialurónico como relleno o hidratación",
+    "DescripcionLarga": "La aplicación de ácido hialurónico como relleno o hidratación es un tratamiento estético que utiliza ácido hialurónico para mejorar la apariencia de la piel. Este tratamiento puede ser utilizado para rellenar arrugas y líneas finas, así como para hidratar la piel y mejorar su textura.",
+    "Imagen1": "img/acido.jpg",
+    "Imagen2": "",
+    "Precio": "1",
+    "Recomendacion":"Dale a tu piel la hidratación y firmeza que necesita con la aplicación de ácido hialurónico. Además, si buscas rellenar arrugas o líneas de expresión, este tratamiento también es ideal para ti. ¡Notarás la diferencia al instante!"
+  },
+  {
+    "IdServicio": "004",
+    "Nombre": "HILOS TENSORES",
+    "DescripcionCorta": "Tratamiento de hilos tensores",
+    "DescripcionLarga": "Los hilos tensores son un tratamiento estético que utiliza hilos quirúrgicos para levantar y tensar la piel. Este tratamiento puede ser utilizado para mejorar la apariencia de la piel en la cara, cuello y otras áreas del cuerpo.",
+    "Imagen1": "img/hilos.jpg",
+    "Imagen2": "",
+    "Precio": "1",
+    "Recomendacion":"Obtén un efecto lifting sin cirugía con los hilos tensores. El tratamiento de hilos tensores levanta y tensa la piel, logrando una apariencia más joven y fresca. ¡Si buscas un rostro más definido y terso, este tratamiento es para ti!"
+  },
+{
+    "IdServicio": "005",
+    "Nombre": "HILOS MAGICOS (SUPERFICIALES)",
+    "DescripcionCorta": "Tratamiento de hilos mágicos superficiales",
+    "DescripcionLarga": "Los hilos mágicos son un tratamiento estético no quirúrgico que utiliza hilos de sutura especiales para tensar y levantar la piel del rostro. Este tratamiento puede ser utilizado para tratar la flacidez de la piel y mejorar la apariencia del contorno facial.",
+    "Imagen1": "img/hilosmagicos.jpg",
+    "Imagen2": "",
+    "Precio": "1",
+    "Recomendacion":"Si buscas un tratamiento de belleza sin dolor y con resultados sorprendentes, los hilos mágicos superficiales son perfectos para ti. Estos hilos levantan y tensan la piel para una apariencia más juvenil y saludable. ¡Luce una piel más radiante y sin imperfecciones!"
+  },
+  {
+    "IdServicio": "006",
+    "Nombre": "TRATAMIENTO DE ALOPECIA",
+    "DescripcionCorta": "Tratamiento de alopecia",
+    "DescripcionLarga": "El tratamiento de alopecia es un procedimiento que se utiliza para estimular el crecimiento del cabello en áreas donde ha habido pérdida de pelo. Este tratamiento puede ser utilizado para tratar la calvicie de patrón masculino y femenino, así como otras formas de alopecia.",
+    "Imagen1": "img/alopecia.jpg",
+    "Imagen2": "",
+    "Precio": "1",
+    "Recomendacion":"Recupera tu cabello y regenera tu cuero cabelludo con nuestro tratamiento de alopecia. Este tratamiento de última generación estimula el crecimiento del cabello y ayuda a prevenir la caída del mismo. ¡Recupera tu cabello y luce una melena más saludable!"
+  },
+  {
+    "IdServicio": "007",
+    "Nombre": "TRATAMIENTO PARA QUITAR ESTRIAS Y MANCHAS",
+    "DescripcionCorta": "Tratamiento para quitar estrías y manchas",
+    "DescripcionLarga": "El tratamiento para quitar estrías y manchas es un procedimiento que se utiliza para reducir la apariencia de estrías y manchas en la piel. Este tratamiento puede ser utilizado para mejorar la apariencia de la piel en el abdomen, piernas, brazos y otras áreas del cuerpo.",
+    "Imagen1": "img/337543413_593230496171620_3760795337759156627_n.jpg",
+    "Imagen2": "",
+    "Precio": "1",
+    "Recomendacion":"Si buscas una piel sin estrías ni manchas, nuestro tratamiento es la solución. Utilizamos tecnología de última generación para eliminar estas imperfecciones y mejorar la textura de la piel. ¡Luce una piel más uniforme y radiante!"
+  },
+  {
+    "IdServicio": "008",
+    "Nombre": "ESCLEROSIS DE VARICES CON LASER",
+    "DescripcionCorta": "Tratamiento de esclerosis de varices con láser",
+    "DescripcionLarga": "La esclerosis de varices con láser es un procedimiento que se utiliza para cerrar las venas varicosas en las piernas. Este tratamiento puede ser utilizado para tratar venas varicosas pequeñas y medianas.",
+    "Imagen1": "img/variceslaser1.jpg",
+    "Imagen2": "img/variceslaser2.jpg",
+    "Precio": "1",
+    "Recomendacion":"Las varices son una preocupación común para muchas personas, pero con nuestro tratamiento de esclerosis con láser, podemos eliminarlas de manera efectiva y sin cirugía. ¡Luce unas piernas más sanas y atractivas!"
+  },
+  {
+    "IdServicio": "009",
+    "Nombre": "PLASMA PEN",
+    "DescripcionCorta": "Tratamiento de plasma pen",
+    "DescripcionLarga": "El plasma pen es un tratamiento estético que utiliza energía de plasma para rejuvenecer la piel. Este tratamiento puede ser utilizado para tratar arrugas, líneas finas, cicatrices y manchas en la piel.",
+    "Imagen1": "img/plasmapen.jpg",
+    "Imagen2": "",
+    "Precio": "1",
+    "Recomendacion":"Dale a tu piel una apariencia más joven y radiante con nuestro tratamiento de plasma pen. Esta técnica no invasiva utiliza tecnología de última generación para mejorar la apariencia de la piel y reducir arrugas y líneas de expresión. ¡Luce más joven y fresca al instante!"
+  },
+  {
+    "IdServicio": "010",
+    "Nombre": "BOTOX",
+    "DescripcionCorta": "Tratamiento de Botox",
+    "DescripcionLarga": "El tratamiento de Botox es un procedimiento que se utiliza para reducir la apariencia de arrugas y líneas finas en la piel. Este tratamiento funciona al relajar los músculos faciales que causan arrugas y líneas finas.",
+    "Imagen1": "img/340840277_877168250053178_1899793466045861654_n.jpg",
+    "Imagen2": "",
+    "Precio": "1",
+    "Recomendacion":"El botox es un tratamiento eficaz y seguro para reducir arrugas y líneas de expresión. Si buscas una apariencia más juvenil y saludable, este tratamiento es para ti. ¡Luce un rostro más relajado y sin arrugas molestas!"
+  },
+  {
+    "IdServicio": "011",
+    "Nombre": "BIOESTRUCTURACION 3D",
+   
+    "DescripcionCorta": "Bioestructuración 3D",
+    "DescripcionLarga": "La bioestructuración 3D es un tratamiento facial no quirúrgico que utiliza inyecciones de ácido hialurónico y otros rellenos para mejorar la apariencia de la piel. Este tratamiento se enfoca en mejorar la estructura ósea y muscular del rostro para lograr una apariencia más juvenil y fresca.",
+    "Imagen1": "img/3d.jpg",
+    "Imagen2": "",
+    "Precio": "1",
+    "Recomendacion":"Si buscas una solución a largo plazo para el envejecimiento facial, nuestra técnica de bioestructuración 3D es la solución perfecta. Este tratamiento utiliza tu propio tejido para rellenar y tensar la piel, logrando un aspecto natural y juvenil. ¡Luce un rostro más definido y joven!"
+  },
+  {
+    "IdServicio": "012",
+    "Nombre": "MESOTERAPIA",
+    "DescripcionCorta": "Tratamiento de mesoterapia",
+    "DescripcionLarga": "La mesoterapia es un tratamiento estético que consiste en inyectar pequeñas cantidades de vitaminas, minerales y otros nutrientes en la piel para mejorar su apariencia. Este tratamiento puede ser utilizado para tratar la celulitis, la flacidez de la piel y otros problemas estéticos.",
+    "Imagen1": "img/meso.jpg",
+    "Imagen2": "",
+    "Precio": "1",
+    "Recomendacion":"La mesoterapia es un tratamiento no invasivo y altamente efectivo para mejorar la apariencia de la piel. Utilizamos una combinación de vitaminas, minerales y ácido hialurónico para hidratar y rejuvenecer la piel. ¡Luce una piel más radiante y saludable!"
+  },
+  {
+    "IdServicio": "013",
+    "Nombre": "HIFU FACIAL",
+    "DescripcionCorta": "Tratamiento de HIFU facial",
+    "DescripcionLarga": "El HIFU facial es un tratamiento no invasivo que utiliza ultrasonido de alta frecuencia para estimular la producción de colágeno en la piel. Este tratamiento puede ser utilizado para mejorar la apariencia de la piel y reducir la apariencia de arrugas y líneas finas.",
+    "Imagen1": "img/hifu1.jpg",
+    "Imagen2": "img/hifu2.jpg",
+    "Precio": "1",
+    "Recomendacion":"Dale a tu piel un tratamiento de elevación no quirúrgico con nuestro tratamiento de HIFU facial. Utilizamos tecnología de ultrasonido para tensar y levantar la piel de manera efectiva y duradera. ¡Luce un rostro más definido y joven al instante!"
+  }
+] 

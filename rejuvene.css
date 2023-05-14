@@ -1,0 +1,132 @@
+body {
+    margin: 0px;
+    padding:0px;
+}
+p {
+  text-align: justify;
+}
+#servicio_container {
+  width: 100%;
+  text-align: center;
+
+}
+.container-fluid {
+    height: 60px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+  }
+  #elarticulo, #formulariodepago {
+    
+    vertical-align: top;
+    display: inline-block;
+    margin: 4px;
+
+  }
+  #elarticulo{
+    width: 70%;
+  }
+  #formulariodepago {
+    width: 28%;
+    background-color: #F3F2CB;
+    padding:10px;
+    border-radius: 10px;
+  }
+  #formulariodepago input {
+    margin-top:5px;
+
+  }
+  #servicio_container{
+    margin-top: 60px;
+
+  }
+  
+  /* @keyframes marquee {
+    0%   { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+  } */
+  
+
+  footer {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 50px;
+  }
+  
+  footer h4 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  footer p {
+    margin-bottom: 10px;
+  }
+  
+  footer iframe {
+    margin-top: 10px;
+  }
+#whatsapp {
+
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: white;
+    border: 1px solid gray;
+    padding: 10px;
+
+  
+} 
+ 
+/* Agregamos el estilo del icono flotante */
+.floating-icon {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #25d366;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 24px;
+  cursor: pointer;
+  opacity: 0.8;
+  z-index: 9999;
+  transition: all 0.2s ease-in-out;
+  opacity: 0.5;
+}
+.floating-icon:hover {
+  opacity: 1;
+}
+
+
+/* Agregamos el estilo del formulario y sus elementos */
+#whatsapp-form {
+  position: fixed;
+  bottom: 80px;
+  right: 20px;
+  width: 300px;
+  z-index: 9998;
+}
+
+#whatsapp-form .card-header {
+  border-radius: 0.25rem 0.25rem 0 0;
+}
+
+#whatsapp-form .form-group label {
+  font-weight: bold;
+}
+
+#whatsapp-form button {
+  margin-top: 10px;
+}
+
+
+  @media only screen and (max-width:800px) {
+    #formulariodepago, #elarticulo {
+      width:90%;
+    }
+  }

@@ -1,0 +1,17 @@
+.slick-hero-slider .image-bg {
+    background-position: center center;
+    background-size: 100% !important;
+    position: relative;
+    height: 865px;
+    background-repeat: no-repeat;
+}
+
+.slick-hero-slider .image-bg::before {
+    background: transparent !important;
+}
+
+h4.proteccion {
+    font-size: 1.2rem !important;
+    text-transform: capitalize !important;
+    font-weight: bold !important;
+}

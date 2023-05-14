@@ -1,0 +1,111 @@
+[
+{
+"IdServicio": 1,
+"Nombre": "Limpieza",
+"DescripcionCorta": "Limpieza facial profunda",
+"DescripcionLarga": "La limpieza facial es un tratamiento de belleza que consiste en la eliminación de impurezas, células muertas y restos de maquillaje del rostro. Se realiza con la aplicación de productos específicos y la extracción de comedones y puntos negros.",
+"Imagen1": "img/facial2.jpg",
+"Imagen2": "",
+"Precio": 1,
+"Recomendacion": "Ideal para todo tipo de piel"
+},
+{
+"IdServicio": 2,
+"Nombre": "Hidraterapia Facial",
+"DescripcionCorta": "Tratamiento de hidratación facial",
+"DescripcionLarga": "La hidraterapia facial es un tratamiento que consiste en la aplicación de productos humectantes y nutritivos para hidratar la piel del rostro. Este tratamiento es ideal para pieles deshidratadas, secas y sensibles.",
+"Imagen1": "img/hidra2.jpg",
+"Imagen2": "",
+"Precio": 1,
+"Recomendacion": "Recomendado para pieles secas y deshidratadas"
+},
+{
+"IdServicio": 3,
+"Nombre": "Hidraterapia con Peptonas",
+"DescripcionCorta": "Tratamiento de hidratación con peptonas",
+"DescripcionLarga": "La hidraterapia con peptonas es un tratamiento de belleza que combina la hidratación facial con la aplicación de peptonas, un tipo de proteína que estimula la producción de colágeno y elastina en la piel. Este tratamiento es ideal para pieles maduras y deshidratadas.",
+"Imagen1": "img/peptonas.jpg",
+"Imagen2": "",
+"Precio": 1,
+"Recomendacion": "Recomendado para pieles maduras y deshidratadas"
+},
+{
+"IdServicio": 4,
+"Nombre": "Exfoliación Química",
+"DescripcionCorta": "Tratamiento de exfoliación facial química",
+"DescripcionLarga": "La exfoliación química es un tratamiento de belleza que consiste en la aplicación de un producto químico para eliminar las células muertas de la piel y promover la regeneración celular. Este tratamiento es ideal para pieles con manchas, cicatrices de acné y arrugas.",
+"Imagen1": "img/ex2.webp",
+"Imagen2": "img/ex.png",
+"Precio": 1,
+"Recomendacion": "Recomendado para pieles con manchas, cicatrices de acné y arrugas"
+},
+{
+"IdServicio": 5,
+"Nombre": "Dermoabrasión con Punta Diamante","DescripcionCorta": "Tratamiento de dermoabrasión con punta diamante",
+"DescripcionLarga": "La dermoabrasión con punta diamante es un tratamiento de belleza que utiliza un dispositivo con punta de diamante para exfoliar y eliminar las células muertas de la piel, estimulando la producción de colágeno y elastina. Este tratamiento es ideal para pieles con arrugas, cicatrices y poros dilatados.",
+"Imagen1": "img/diamante.jpg",
+"Imagen2": "img/diamante2.png",
+"Precio": 1,
+"Recomendacion": "Recomendado para pieles con arrugas, cicatrices y poros dilatados"
+},
+{
+"IdServicio": 6,
+"Nombre": "Hidratación Profunda",
+"DescripcionCorta": "Tratamiento de hidratación profunda",
+"DescripcionLarga": "La hidratación profunda es un tratamiento de belleza que consiste en la aplicación de productos humectantes y nutritivos para hidratar y revitalizar la piel del rostro en profundidad. Este tratamiento es ideal para pieles cansadas y deshidratadas.",
+"Imagen1": "img/hidrap1.jpg",
+"Imagen2": "img/hidra2.jpg",
+"Precio": 1,
+"Recomendacion": "Recomendado para pieles cansadas y deshidratadas"
+},
+{
+"IdServicio": 7,
+"Nombre": "Anti-Acne",
+"DescripcionCorta": "Tratamiento facial para el acné",
+"DescripcionLarga": "El tratamiento anti-acné es un tratamiento de belleza que consiste en la aplicación de productos específicos para tratar el acné y las imperfecciones de la piel del rostro. Este tratamiento es ideal para pieles con acné y comedones.",
+"Imagen1": "img/acne2.jpg",
+"Imagen2": "img/acne1.jpg",
+"Precio": 1,
+"Recomendacion": "Recomendado para pieles con acné y comedones"
+},
+{
+"IdServicio": 8,
+"Nombre": "Rejuvenecimiento",
+"DescripcionCorta": "Tratamiento facial rejuvenecedor",
+"DescripcionLarga": "El tratamiento de rejuvenecimiento es un tratamiento de belleza que consiste en la aplicación de productos y técnicas específicas para reducir los signos de envejecimiento en la piel del rostro. Este tratamiento es ideal para pieles maduras y con arrugas.",
+"Imagen1": "img/rejuve.jpeg",
+"Imagen2": "",
+"Precio": 1,
+"Recomendacion": "Recomendado para pieles maduras y con arrugas"
+},
+{
+"IdServicio": 9,
+"Nombre": "Radiofrecuencia",
+"DescripcionCorta": "Tratamiento facial con radiofrecuencia",
+"DescripcionLarga": "La radiofrecuencia es un tratamiento de belleza que utiliza ondas electromagnéticas para calentar las capas profundas de la piel, estimulando la producción de colágeno y elastina. Este tratamiento es ideal para mejorar la flacidez y la textura de la piel del rostro.",
+"Imagen1": "img/radio.webp",
+"Imagen2": "",
+"Precio":1,
+"Recomendacion": "Recomendado para mejorar la flacidez y la textura de la piel del rostro"
+},
+{
+"IdServicio": 10,
+"Nombre": "Altafrecuencia",
+"DescripcionCorta": "Tratamiento facial con altafrecuencia",
+"DescripcionLarga": "La altafrecuencia es un tratamiento de belleza que utiliza un dispositivo que emite corrientes eléctricas de alta frecuencia para mejorar la circulación sanguínea, reducir la inflamación y estimular la producción de colágeno y elastina. Este tratamiento es ideal para pieles con acné y para mejorar la apariencia general de la piel del rostro.",
+"Imagen1": "img/alta1.jpg",
+"Imagen2": "",
+"Precio": 1,
+"Recomendacion": "Recomendado para pieles con acné y para mejorar la apariencia general de la piel del rostro"
+},
+{
+"IdServicio": 11,
+"Nombre": "Ultrasonido",
+"DescripcionCorta": "Tratamiento facial con ultrasonido",
+"DescripcionLarga": "El tratamiento de ultrasonido es un tratamiento de belleza que utiliza ondas sonoras para exfoliar y limpiar la piel del rostro en profundidad, estimulando la producción de colágeno y elastina. Este tratamiento es ideal para pieles con poros dilatados y para mejorar la textura de la piel del rostro.",
+"Imagen1": "img/ultra.avif",
+"Imagen2": "",
+"Precio": 1,
+"Recomendacion": "Recomendado para pieles con poros dilatados y para mejorar la textura de la piel del rostro"
+}
+]

@@ -1,0 +1,32 @@
+[
+{
+"IdServicio": "1",
+"Nombre": "Terapia con células madre mesenquimales",
+"DescripcionCorta": "Tratamiento con células madre para la regeneración de tejidos dañados",
+"DescripcionLarga": "La terapia con células madre mesenquimales implica la extracción de células madre del propio cuerpo del paciente o de un donante, que luego se procesan y se inyectan en el área dañada. Esta técnica se ha utilizado con éxito para tratar una amplia variedad de enfermedades y afecciones, como lesiones en la médula espinal, enfermedades autoinmunitarias y trastornos neurodegenerativos como el Alzheimer y el Parkinson.",
+"Imagen1": "img/esquimales1.jpg",
+"Imagen2": "img/esquimales2.jpg",
+"Precio": "1",
+"Recomendacion": "Recomendamos esta terapia para aquellos que buscan una solución de regeneración tisular avanzada y que han sido evaluados por un especialista en medicina regenerativa."
+},
+{
+"IdServicio": "2",
+"Nombre": "Sueroterapia",
+"DescripcionCorta": "Terapia intravenosa de nutrientes para mejorar la salud y el bienestar",
+"DescripcionLarga": "La sueroterapia implica la administración intravenosa de una solución que contiene una combinación de vitaminas, minerales y otros nutrientes esenciales para el cuerpo. Esta técnica se ha utilizado para tratar una variedad de afecciones, como la fatiga crónica, la depresión y la ansiedad, así como para mejorar el rendimiento deportivo y la recuperación después del ejercicio.",
+"Imagen1": "img/sueroterapia.jpg",
+"Imagen2": "",
+"Precio": "1",
+"Recomendacion": "Recomendamos la sueroterapia para aquellos que buscan una solución natural para mejorar su salud y bienestar, y que desean trabajar con un profesional de la salud calificado para personalizar su tratamiento."
+},
+{
+"IdServicio": "3",
+"Nombre": "Quelación",
+"DescripcionCorta": "Terapia para la eliminación de metales pesados y toxinas en el cuerpo",
+"DescripcionLarga": "La quelación implica la administración de un agente quelante, que es una sustancia que se une a metales pesados y otras toxinas en el cuerpo, eliminándolos del sistema. Esta técnica se ha utilizado para tratar enfermedades cardiovasculares, enfermedades neurodegenerativas y otras afecciones crónicas relacionadas con la acumulación de metales pesados y toxinas en el cuerpo.",
+"Imagen1": "img/quelacion2.jpg",
+"Imagen2": "img/quelacion1.webp",
+"Precio": "1",
+"Recomendacion": "Recomendamos la quelación para aquellos que buscan una solución para la eliminación de metales pesados y toxinas en su cuerpo y que han sido evaluados por un especialista en medicina regenerativa para determinar si esta técnica es adecuada para su condición de salud."
+}
+]

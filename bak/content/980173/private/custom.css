@@ -1,0 +1,160 @@
+/* CSS */
+
+#contenedor-galeria-detalle > div > ul > li {
+    list-style: circle !important;
+    margin-left: 2%  !important;
+}
+
+#plantilla .navbar-fixed-top {
+    background: white !important;
+}
+
+a.imglogo.navbar-brand.logo img {
+    width: 164px !important;
+    margin-top: -10% !important;
+}
+
+#Masaje\20 Linfático\20 \28 Preso\20 terapia\29 > div > div.row.gap-25-sm > div.col-xs-12.col-sm-8.col-md-12 > div > div.row.gap-5 > div.col-sm-12.col-md-6.descripcion-producto > div > div.inner > ul:nth-child(7) > li
+,#Masaje\20 Linfático\20 \28 Preso\20 terapia\29 > div > div.row.gap-25-sm > div.col-xs-12.col-sm-8.col-md-12 > div > div.row.gap-5 > div.col-sm-12.col-md-6.descripcion-producto > div > div.inner > ul:nth-child(10) > li,
+#Masaje\20 con\20 piedras\20 calientes > div > div.row.gap-25-sm > div.col-xs-12.col-sm-8.col-md-12 > div > div.row.gap-5 > div.col-sm-12.col-md-6.descripcion-producto > div > div.inner > ul > li,
+#AC\2e \20 HIALURONICO > div > div.row.gap-25-sm > div.col-xs-12.col-sm-8.col-md-12 > div > div.row.gap-5 > div.col-sm-12.col-md-6.descripcion-producto > div > div.inner > div:nth-child(4) > ul > li {
+list-style: circle  !important;
+    margin-left: 3%;
+}
+
+.slick-hero-slider-caption {
+    display: none  !important;
+}
+
+.car-item ul.car-meta {
+    background: #dbeea2 !important;
+}
+
+#id_option1618284 #mod9,#id_option1618284 #mod10,#id_option1618284 #mod11,#id_option1618284 #mod12{
+    display:none !important;
+}
+
+#id_option1618284 div#mod4 {
+    margin: 0;
+    width: 100%;
+}
+
+#id_option1618284 .car-item .image img {
+    border-radius: 50% !important;
+    border: 3px inset #bbe346 !important;
+}
+
+#id_option1618284 .car-item ul.car-meta li {
+    width: 100% !important;
+}
+
+#id_option1618284 .alt-border-color .car-item {
+    border-color: transparent;
+}
+
+#id_option1618284 div#seccion3{
+    display: none !important;
+}
+
+#id_option1618284 div#seccion4,
+#id_option1618284 div#seccion5{
+    display: none !important;
+}
+
+#id_option1618284 div#seccion6 {
+    display: none;
+}
+
+#id_option1618284 div#mod17, #id_option1618284 div#mod18 {
+    display: none;
+}
+
+.main-footer {
+    background: url(../../../../gestiona.usuariosazteca.com/content/980173/footer/footer.png) !important;
+    background-size: 100% !important;
+    background-repeat: no-repeat !important;
+}
+
+#id_option1618284 #mod16 .col-xss-12.col-xs-6.col-sm-6.col-md-7 {
+    display: none;
+}
+
+#id_option1618284 #mod16 .col-xss-12.col-xs-6.col-sm-6.col-md-5 {
+    width: 100%;
+}
+
+#id_option1618284 #mod15 .col-xss-12.col-xs-6.col-sm-6.col-md-5 {
+    display: none;
+}
+
+
+#id_option1618284 #mod15 .col-xss-12.col-xs-6.col-sm-6.col-md-7 {
+     width: 100%;
+}
+
+#id_option1618284 div#contacto_vista1 label {
+    font-size: 1rem;
+    line-height: 1.9rem !important;
+}
+
+#id_option1618284 .section-title h2 {
+    color: #8cb617;
+    font-weight: bold;
+    margin: 9px;
+}
+
+.section-title h2:after, .section-title h3:after, .section-title h4:after{
+    display:none !important;
+}
+
+
+/********NOSOTROS*****************/
+
+#id_option1618819 div#general_mislider1,
+#id_option1618819 .bg-light.section,
+#id_option1618819 #lalolanda_general1 > div:nth-child(5),
+#id_option1618819 #lalolanda_general1 > div:nth-child(7),
+#id_option1618819 .car-dealer-action-wrapper{
+    display:none !important;
+}
+
+#id_option1618819 .main-search-wrapper {
+    background: #92c900 !important;
+}
+
+#id_option1618819 .featured-item-wrapper.mt-30 {
+    display: none;
+}
+
+#id_option1618819 #mod5 > ul li {
+    list-style: circle;
+    margin-left: 18px;
+}
+
+.breadcrumb-wrapper {
+    display: none;
+}
+
+
+footer#mod_footer li a {
+    color: #2e2e2e !important;
+}
+
+.btn-primary {
+    background: #e19100  !important;
+    border-color: #db760f  !important;
+    color: #FFF !important;
+}
+
+div#mod6 > iframe {
+    width: 100%;
+    height: 307px;
+}
+
+.result-sorting-wrapper.mb-30 {
+    display: none;
+}
+
+#lalolanda_catalogo1 > div.container-outer > div > div > div > div > div.paging-wrapper.mt-30.clearfix > p{
+    display: none;
+}

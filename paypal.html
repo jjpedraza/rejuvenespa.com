@@ -1,0 +1,80 @@
+<!-- Incluir el script de PayPal -->
+<script src="https://www.paypal.com/sdk/js?client-id=&currency=MXN"></script>
+<!-- Incluir el botón de PayPal -->
+<div id="paypal-button-container"></div>
+<!-- Incluir SweetAlert2 -->
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.16.6/dist/sweetalert2.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@10.16.6/dist/sweetalert2.min.css">
+
+<script>
+  paypal.Buttons({
+    createOrder: function(data, actions) {
+      // Configurar el objeto de la orden
+      return actions.order.create({
+        purchase_units: [{
+          amount: {
+            currency_code: 'MXN',
+            value: '100.00',
+            breakdown: {
+              item_total: {
+                currency_code: 'MXN',
+                value: '100.00'
+              }
+            }
+          },
+          items: [
+            {
+              name: 'Nombre del artículo',
+              description: 'Descripción del artículo',
+              unit_amount: {
+                currency_code: 'MXN',
+                value: '100.00'
+              },
+              quantity: '1'
+            }
+          ]
+        }]
+      });
+    },
+    onApprove: function(data, actions) {
+      // Capturar el pago
+      return actions.order.capture().then(function(details) {
+        // Mostrar mensaje de éxito con SweetAlert2
+       
+
+
+
+        //Nombre del pagador
+        details.payer.name 
+
+        //Correo electronico del pagador
+        details.payer.email_address
+
+        //Que compro
+        details.purchase_units
+
+        //Id de Transaccion
+        details.id
+
+        console.log(details);
+       // enviar un correo con los detalles
+       CorreoCliente = 'Estimado ';
+        
+        Swal.fire({
+          icon: 'success',
+          title: 'Pago completado con éxito',
+          text: 'Gracias por tu compra, ' + details.payer.name.given_name + '! Su ID de transacción es: ' + details.id
+        });
+
+      });
+    },
+    onError: function(error) {
+      // Mostrar mensaje de error con SweetAlert2
+      Swal.fire({
+        icon: 'error',
+        title: 'Oops...',
+        text: 'Se produjo un error al procesar el pago: ' + error.message
+      });
+    }
+  }).render('#paypal-button-container');
+</script>

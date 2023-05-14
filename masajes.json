@@ -1,0 +1,91 @@
+[
+{
+"IdServicio": "001",
+"Nombre": "MASAJE RELAJANTE",
+"DescripcionCorta": "Masaje para aliviar el estrés y la tensión muscular.",
+"DescripcionLarga": "El masaje relajante es un tipo de masaje que se enfoca en aliviar el estrés y la tensión muscular. Se realiza con movimientos suaves y lentos, con el objetivo de inducir la relajación y mejorar la circulación sanguínea y linfática.",
+"Imagen1": "img/masajesrelajantes.jpg",
+"Imagen2": "",
+"Precio": "1",
+"Recomendacion": "Recomendado para personas que buscan relajarse y reducir el estrés."
+},
+{
+"IdServicio": "002",
+"Nombre": "MASAJE CON AROMATERAPIA",
+"DescripcionCorta": "Masaje con aceites esenciales para aliviar el estrés y la ansiedad.",
+"DescripcionLarga": "El masaje con aromaterapia es un tipo de masaje que se realiza con aceites esenciales para aliviar el estrés y la ansiedad. Se utiliza una combinación de aceites esenciales para crear un ambiente relajante y mejorar la experiencia del masaje.",
+"Imagen1": "img/aroma.jpeg",
+"Imagen2": "",
+"Precio": "1",
+"Recomendacion": "Recomendado para personas que buscan relajarse y reducir la ansiedad."
+},
+{
+"IdServicio": "003",
+"Nombre": "MASAJE REDUCTIVO",
+"DescripcionCorta": "Masaje para reducir la grasa localizada y la celulitis.",
+"DescripcionLarga": "El masaje reductivo es un tipo de masaje que se enfoca en reducir la grasa localizada y la celulitis. Se realiza con movimientos fuertes y profundos, con el objetivo de romper los depósitos de grasa y mejorar la circulación sanguínea y linfática.",
+"Imagen1": "img/reductivo.jpg",
+"Imagen2": "",
+"Precio": "1",
+"Recomendacion": "Recomendado para personas que buscan reducir la grasa localizada y la celulitis."
+},
+{
+"IdServicio": "004",
+"Nombre": "MASAJE DE MOLDEO CORPORAL (LIPOESCULTURA SIN BISTURI)",
+"DescripcionCorta": "Masaje para moldear y tonificar el cuerpo sin cirugía.",
+"DescripcionLarga": "El masaje de moldeo corporal es un tipo de masaje que se enfoca en moldear y tonificar el cuerpo sin cirugía. Se realiza con movimientos específicos para estimular la eliminación de grasa y mejorar la circulación sanguínea y linfática.",
+"Imagen1": "img/lipo.png","Imagen2": "",
+"Precio": "1",
+"Recomendacion": "Recomendado para personas que buscan moldear y tonificar su cuerpo sin cirugía."
+},
+{
+"IdServicio": "005",
+"Nombre": "MASAJE CON PRESOTERAPIA",
+"DescripcionCorta": "Masaje con presión para mejorar la circulación y reducir la retención de líquidos.",
+"DescripcionLarga": "El masaje con presoterapia es un tipo de masaje que se realiza con una máquina que aplica presión en diferentes partes del cuerpo para mejorar la circulación y reducir la retención de líquidos. Se utiliza en combinación con un masaje tradicional para obtener mejores resultados.",
+"Imagen1": "img/preso.webp",
+"Imagen2": "",
+"Precio": "1",
+"Recomendacion": "Recomendado para personas que buscan mejorar la circulación y reducir la retención de líquidos."
+},
+{
+"IdServicio": "006",
+"Nombre": "MASAJE DE PIEDRAS CALIENTES",
+"DescripcionCorta": "Masaje con piedras calientes para aliviar el estrés y relajar los músculos.",
+"DescripcionLarga": "El masaje de piedras calientes es un tipo de masaje que se realiza con piedras calientes para aliviar el estrés y relajar los músculos. Se utilizan piedras de basalto calientes que se colocan en diferentes partes del cuerpo para proporcionar una sensación de calor y mejorar la experiencia del masaje.",
+"Imagen1": "img/piedras.jpg",
+"Imagen2": "",
+"Precio": "1",
+"Recomendacion": "Recomendado para personas que buscan aliviar el estrés y relajar los músculos."
+},
+{
+"IdServicio": "007",
+"Nombre": "MASAJE SPORT",
+"DescripcionCorta": "Masaje para deportistas para mejorar el rendimiento y prevenir lesiones.",
+"DescripcionLarga": "El masaje sport es un tipo de masaje que se enfoca en mejorar el rendimiento y prevenir lesiones en deportistas. Se utiliza una combinación de movimientos para aliviar la tensión muscular y mejorar la flexibilidad.",
+"Imagen1": "img/sport.jpg",
+"Imagen2": "",
+"Precio": "1",
+"Recomendacion": "Recomendado para deportistas que buscan mejorar su rendimiento y prevenir lesiones."
+},
+{
+"IdServicio": "008",
+"Nombre": "MASAJE DE PIERNAS CANSADAS",
+"DescripcionCorta": "Masaje para aliviar la pesadez y el dolor en las piernas.",
+"DescripcionLarga": "El masaje de piernas cansadas es un tipo de masaje que se enfoca en aliviar la pesadezy el dolor en las piernas. Se utiliza una combinación de movimientos para mejorar la circulación sanguínea y reducir la tensión muscular en las piernas.",
+"Imagen1": "img/piernascansadas.jpeg",
+"Imagen2": "",
+"Precio": "1",
+"Recomendacion": "Recomendado para personas que sufren de pesadez y dolor en las piernas."
+},
+{
+"IdServicio": "009",
+"Nombre": "MASAJE DESCONTRACTURANTE",
+"DescripcionCorta": "Masaje para aliviar la tensión muscular y reducir el dolor.",
+"DescripcionLarga": "El masaje descontracturante es un tipo de masaje que se enfoca en aliviar la tensión muscular y reducir el dolor en diferentes partes del cuerpo. Se utilizan movimientos profundos y firmes para liberar la tensión en los músculos y mejorar la circulación sanguínea.",
+"Imagen1": "img/desco.jpg",
+"Imagen2": "",
+"Precio": "1",
+"Recomendacion": "Recomendado para personas que sufren de tensión muscular y dolor en diferentes partes del cuerpo."
+}
+]
